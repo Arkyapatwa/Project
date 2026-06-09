@@ -12,6 +12,8 @@ The auth-service manages user identity, authentication, and authorization across
 
 ## API Endpoints
 
+extra lines
+
 ### POST /auth/register
 - **Purpose:** Registers a new user account in the system.
 - **Request:** JSON body with email, password, first_name, last_name.
